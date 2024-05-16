@@ -1,6 +1,8 @@
 Worked on this project as a part of my curriculum for the 6th Semester.
+
 Task given to us was to solve a classic game by implementing AI search algorithms.
-To know more about the project read snake_game.pdf
+
+To know more about the project read [snake_game.pdf](https://github.com/arzharch/Snake-Game/blob/main/snake_game.pdf)
 
 
 
